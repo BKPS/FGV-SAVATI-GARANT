@@ -1,0 +1,55 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head><title>
+	FGV - Detalhe Timesheet Corporativo
+</title></head>
+<body>
+    <form name="form1" method="post" action="TimesheetExcelDetalhe.aspx?Periodo=142" id="form1">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+</div>
+
+    <div>
+        <div>
+            <span id="lblColaborador" style="font-size:Larger;font-weight:bold;">Colaborador: </span>
+            <span id="lblColaboradorVal" style="font-size:Larger;font-weight:bold;">Bernd Klaus Peter Schroder</span></div>
+        <br />        
+        <div>
+	<table cellspacing="0" rules="all" border="1" id="gvLancamentoDetalhe" style="border-collapse:collapse;">
+		<tr align="center" style="color:White;background-color:#7E9EE5;font-size:98%;font-weight:bold;">
+			<th scope="col">Unidade</th><th scope="col">Atividade</th><th scope="col">SubAtividade</th><th scope="col">Centro de Custo</th><th scope="col">Dia</th><th scope="col">Horas</th><th scope="col">E</th><th scope="col">Status</th><th scope="col">Observa&#231;&#227;o</th><th scope="col">Informa&#231;&#227;o</th>
+		</tr><tr style="background-color:#99FF99;">
+			<td align="left">TIC/RJ</td><td align="left">Banco de Pre&#231;os</td><td align="left">An&#225;lise de Sistemas</td><td align="left">00601000100007 - Ibre-Dgd-Laborat. e Suporte de Informatica</td><td align="right">3/9/2012</td><td align="right">8,00</td><td align="center"></td><td align="center">Aprovado</td><td align="left">17915</td><td align="left">Marcelo Pinto Dias</td>
+		</tr><tr style="background-color:#99FF99;">
+			<td align="left">TIC/RJ</td><td align="left">Banco de Pre&#231;os</td><td align="left">An&#225;lise de Sistemas</td><td align="left">00601000100007 - Ibre-Dgd-Laborat. e Suporte de Informatica</td><td align="right">4/9/2012</td><td align="right">3,00</td><td align="center"></td><td align="center">Aprovado</td><td align="left">17915</td><td align="left">Marcelo Pinto Dias</td>
+		</tr><tr style="background-color:#99FF99;">
+			<td align="left">TIC/RJ</td><td align="left">IBRE.2012.009-Modelo Hed&#244;nico no IPC</td><td align="left">Desenvolvimento de sistemas</td><td align="left">00601000700004 - Ibre-Dgd-Nig-IPC</td><td align="right">4/9/2012</td><td align="right">5,00</td><td align="center"></td><td align="center">Aprovado</td><td align="left">MHF004</td><td align="left">2012.009</td>
+		</tr><tr style="background-color:#99FF99;">
+			<td align="left">TIC/RJ</td><td align="left">IBRE.2012.009-Modelo Hed&#244;nico no IPC</td><td align="left">Desenvolvimento de sistemas</td><td align="left">00601000700004 - Ibre-Dgd-Nig-IPC</td><td align="right">5/9/2012</td><td align="right">8,00</td><td align="center"></td><td align="center">Aprovado</td><td align="left">MHF004</td><td align="left">2012.009</td>
+		</tr><tr style="background-color:#99FF99;">
+			<td align="left">TIC/RJ</td><td align="left">IBRE.2012.009-Modelo Hed&#244;nico no IPC</td><td align="left">Desenvolvimento de sistemas</td><td align="left">00601000700004 - Ibre-Dgd-Nig-IPC</td><td align="right">6/9/2012</td><td align="right">8,00</td><td align="center"></td><td align="center">Aprovado</td><td align="left">MHF004</td><td align="left">2012.009</td>
+		</tr><tr style="background-color:#99FF99;">
+			<td align="left">TIC/RJ</td><td align="left">IBRE.2012.009-Modelo Hed&#244;nico no IPC</td><td align="left">Desenvolvimento de sistemas</td><td align="left">00601000700004 - Ibre-Dgd-Nig-IPC</td><td align="right">10/9/2012</td><td align="right">8,00</td><td align="center"></td><td align="center">Aprovado</td><td align="left">MHF004</td><td align="left">2012.009</td>
+		</tr><tr style="background-color:#99FF99;">
+			<td align="left">TIC/RJ</td><td align="left">IBRE.2012.009-Modelo Hed&#244;nico no IPC</td><td align="left">Desenvolvimento de sistemas</td><td align="left">00601000700004 - Ibre-Dgd-Nig-IPC</td><td align="right">11/9/2012</td><td align="right">8,00</td><td align="center"></td><td align="center">Aprovado</td><td align="left">MHF004</td><td align="left">2012.009</td>
+		</tr><tr style="background-color:#99FF99;">
+			<td align="left">TIC/RJ</td><td align="left">IBRE.2012.009-Modelo Hed&#244;nico no IPC</td><td align="left">Desenvolvimento de sistemas</td><td align="left">00601000700004 - Ibre-Dgd-Nig-IPC</td><td align="right">12/9/2012</td><td align="right">8,00</td><td align="center"></td><td align="center">Aprovado</td><td align="left">MHF004</td><td align="left">2012.009</td>
+		</tr><tr style="background-color:#99FF99;">
+			<td align="left">TIC/RJ</td><td align="left">IBRE.2012.009-Modelo Hed&#244;nico no IPC</td><td align="left">Desenvolvimento de sistemas</td><td align="left">00601000700004 - Ibre-Dgd-Nig-IPC</td><td align="right">13/9/2012</td><td align="right">8,00</td><td align="center"></td><td align="center">Aprovado</td><td align="left">MHF004</td><td align="left">2012.009</td>
+		</tr><tr style="background-color:#99FF99;">
+			<td align="left">TIC/RJ</td><td align="left">IBRE.2012.009-Modelo Hed&#244;nico no IPC</td><td align="left">Desenvolvimento de sistemas</td><td align="left">00601000700004 - Ibre-Dgd-Nig-IPC</td><td align="right">14/9/2012</td><td align="right">8,00</td><td align="center"></td><td align="center">Aprovado</td><td align="left">MHF004</td><td align="left">2012.009</td>
+		</tr><tr align="center" style="color:White;background-color:#7E9EE5;font-size:98%;font-weight:bold;">
+			<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>Total</td><td align="right">72,00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr>
+	</table>
+</div>
+
+
+        
+    </div>
+    </form>
+</body>
+</html>
